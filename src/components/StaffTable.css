@@ -1,0 +1,20 @@
+.table-header {
+  background-color: #f0f0f0;
+  color: #000;
+}
+.table-header-row {
+  font-weight: 600 !important;
+}
+
+table {
+  font-family: "Roboto", sans-serif;
+  color: #000;
+}
+
+.hover-button {
+  visibility: hidden;
+}
+
+.table-row:hover .hover-button {
+  visibility: visible;
+}
